@@ -1,0 +1,14 @@
+h1 {color: rgb(252, 134, 130);
+    font-family: Arial, Helvetica, sans-serif;}
+    header { 
+        text-align: center;
+    }
+
+    body {
+        background: url("batm3.webp") no-repeat center center fixed;
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+        height: 200vh;
+      }
+      h3{color: rgb(255, 236, 236);}

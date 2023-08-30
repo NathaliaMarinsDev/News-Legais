@@ -1,0 +1,14 @@
+h1 {color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;}
+    header { 
+        text-align: center;
+    }
+    
+    body {
+        background: url("cybe3.jpeg") no-repeat center center fixed;
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+        height: 200vh;
+      }
+      h3{color: #ffffff;}

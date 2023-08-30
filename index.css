@@ -1,0 +1,19 @@
+body {
+    background: url("index3.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 200vh;
+  }
+  h3 {color: rgb(0, 0, 0);}
+  h2{color: aliceblue;}
+  h1{color: aliceblue;}
+  .section {
+    /* ... outros estilos ... */
+    background-image: url("fundo2\ index.png");
+    background-size: cover; /* Para ajustar o tamanho da imagem */
+    background-repeat: no-repeat; /* Para evitar a repetição da imagem */
+ 
+
+  
+  
